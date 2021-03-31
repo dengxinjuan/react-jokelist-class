@@ -3,3 +3,5 @@
 ```
 npm install && npm start
 ```
+
+This is a project practicing old class component way.
